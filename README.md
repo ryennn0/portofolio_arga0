@@ -1,1 +1,22 @@
-# portofolio_arga0
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Saya - Arga</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <div class="kartu-profil">
+        
+        <img src="https://github.com/ryennn0/portofolio_arga0/blob/a916f4e925ea743e1e3b15b74201c59e02f3dd74/WIN_20250516_13_50_29_Pro.jpg" alt="foto profil"> 
+        
+        <h1>Mayza Arga Rayendra</h1>
+        
+        <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
+        
+        <a href="https://www.instagram.com/ryennn_0/">Kunjungi Instagram Saya</a>
+        <button id="sapaButton">Sapa Saya!</button>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
